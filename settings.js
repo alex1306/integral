@@ -25,7 +25,10 @@ otkos = '0.25'
 1xlamination = '0.56'
 2xlamination = '0.80'
 
-
+# max. height
+maxheight = '3000'
+# max. lenght
+maxlenght = '3000'
 
 
 
