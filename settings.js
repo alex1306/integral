@@ -1,13 +1,13 @@
 
-сначала считаем cost = priceN x площадь окна
-а потом взависимости от выбора в калькуле прибавляем проценты к cost
+//сначала считаем cost = priceN x площадь окна
+//а потом взависимости от выбора в калькуле прибавляем проценты к cost
 
-например ,  cost = 1000
-юзер выбрал: bluEvolution + otkos + двойную ламинацию.  
-Считаем   cost = 1000 + (1000*2) + (1000*0.25) + (1000*0.80)
+//например ,  cost = 1000
+//юзер выбрал: bluEvolution + otkos + двойную ламинацию.  
+//Считаем   cost = 1000 + (1000*2) + (1000*0.25) + (1000*0.80)
 
 
-# price for square sm
+// price for square sm
 
 price1 = ['100.20', '100.20', '100.20', '100.20']
 price2 = ['100.20', '100.20', '100.20', '100.20', '100.20', '100.20']
@@ -16,38 +16,38 @@ price4 = ['100.20', '100.20', '100.20', '100.20']
 price5 = ['100.20', '100.20', '100.20', '100.20', '100.20']
 
 
-# system bluEvolution
+// system bluEvolution
 bluEvolution = '2.00'
 
-# system Design3D
+// system Design3D
 Design3D = '1.20'
 
-# system Streamline SL
+// system Streamline SL
 StreamlineSL = '1.30'
 
-# system Design 2D
+// system Design 2D
 Design2D = '1.40'
 
-# podokonik
+// podokonik
 podokonik = '0.03'
 
-# otliv
+// otliv
 otliv = '0.35'
 
-# otksos
+// otksos
 otkos = '0.25'
 
 1xlamination = '0.56'
 2xlamination = '0.80'
 
-# max. height
+// max. height
 maxheight = '3000'
-# max. lenght
+//max. lenght
 maxlenght = '3000'
 
-# min. height
+// min. height
 minheight = '100'
-# min. lenght
+// min. lenght
 minlenght = '100'
 
 
