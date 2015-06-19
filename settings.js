@@ -37,8 +37,8 @@ otliv = '0.35'
 // otksos
 otkos = '0.25'
 
-1xlamination = '0.56'
-2xlamination = '0.80'
+lamination_1 = '0.56'
+lamination_2 = '0.80'
 
 // max. height
 maxheight = '3000'
