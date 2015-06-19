@@ -36,7 +36,10 @@ maxheight = '3000'
 # max. lenght
 maxlenght = '3000'
 
-
+# min. height
+minheight = '100'
+# min. lenght
+minlenght = '100'
 
 
 
